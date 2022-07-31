@@ -41,6 +41,21 @@ For metaGrid Project
 ```
 cd metaGrid
 ```
+
+```
+cd workspace/
+```
+
+install dependencies
+```npm i```
+to start with web3 and metamask sign in use
+```npm run web3```
+to start anonymously and without web3 services use 
+```npm start```
+
+
+
+
 For AR Scanner App
 ```
 cd arscanner
