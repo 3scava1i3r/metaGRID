@@ -33,7 +33,14 @@
       - Better customer experience
       - Blockchain based Warranty System
 
-    
+  ## Steps to run Project
+```
+git clone https://github.com/3scava1i3r/metaGRID.git
+```
+For metaGrid Project
+```
+cd metaGrid
+```
 
 ## MetaGrid Video
 https://drive.google.com/file/d/1-BvOscu0QGOGPIe_K23YvIo6K7IlehKT/view?usp=sharing
