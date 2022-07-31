@@ -17,3 +17,33 @@
 
 https://user-images.githubusercontent.com/73641062/182041008-91073fb4-6904-4d1b-8032-df41f18f0e1d.mp4
 
+    Features: 
+    - Buy and sell item as NFT (ERC721)
+    - Get warranty on your product
+    - View in AR ( Scan QR to view in 3D)
+    - Post your advertisement
+    - Buy using MG coin (ERC20)
+    - Immersive Commerce Experience
+    - Shared Multiple user 3D space
+    - Dance, Music and meet over Concert Area
+    - Explore Tron City
+    - Have FUN time playing games together
+    - Proximity, Voice, Emoji and Text chat
+    - Customise your Avatar (name, looks..)
+    - Panaromic AR city Experience in APP
+    - Personalised experience and stronger User Engagement
+    
+    Use Cases:
+     - Advanced Use Of Blockchain
+     - Live Interaction and community building
+     -  Virtual business and Markets
+     - Better Advertising, branding and marketing opportunities
+     
+     Problem Solved:
+      - Personalized Experience
+      - Reduced Return rates of products
+      - Ownership of items
+      - Increased Profitability
+      - Stronger Engagement with customers
+      - Better customer experience
+      - Blockchain based Warranty System
