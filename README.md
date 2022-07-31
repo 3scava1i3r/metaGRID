@@ -37,25 +37,25 @@
 ```
 git clone https://github.com/3scava1i3r/metaGRID.git
 ```
-### For metaGrid Project
+For metaGrid Project
 ```
 cd metaGrid
 ```
-
+For AR Scanner App
 ```
-cd workspace/
+cd arscanner
+Make sure to have flutter installed and setup
+run `flutter pub get`
+run `flutter run`
 ```
-install dependencies
-```npm i```
 
-to start with web3 and metamask sign in use
-```npm run web3```
-
-to start anonymously and without web3 services use 
-```npm start```
-
-
-
+Here are all deployed and verified smart contract we used
+```
+marketContract = "0xad1c6055f45941CF85c40887ea55f9B2Cf200CDa"
+NFTContract = "0x8DF8C41A4A84F5f9257a019e1d31c16808709d35"
+MGcoinContract = "0x514066a543d8Df91680b140d1d5190396cA37Eeb"
+VirtualWarranty = "0x1bCD612f4AA65daB8acB5421705AB4C586313D9A"
+```
 
 ## MetaGrid Video
 https://drive.google.com/file/d/1-BvOscu0QGOGPIe_K23YvIo6K7IlehKT/view?usp=sharing
