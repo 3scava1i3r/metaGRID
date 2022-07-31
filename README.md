@@ -37,10 +37,25 @@
 ```
 git clone https://github.com/3scava1i3r/metaGRID.git
 ```
-For metaGrid Project
+### For metaGrid Project
 ```
 cd metaGrid
 ```
+
+```
+cd workspace/
+```
+install dependencies
+```npm i```
+
+to start with web3 and metamask sign in use
+```npm run web3```
+
+to start anonymously and without web3 services use 
+```npm start```
+
+
+
 
 ## MetaGrid Video
 https://drive.google.com/file/d/1-BvOscu0QGOGPIe_K23YvIo6K7IlehKT/view?usp=sharing
