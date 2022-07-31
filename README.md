@@ -75,7 +75,7 @@ VirtualWarranty = "0x1bCD612f4AA65daB8acB5421705AB4C586313D9A"
 ## MetaGrid Video
 https://drive.google.com/file/d/1-BvOscu0QGOGPIe_K23YvIo6K7IlehKT/view?usp=sharing
 ## AR Scanner Video tutorial
-https://user-images.githubusercontent.com/73641062/182041008-91073fb4-6904-4d1b-8032-df41f18f0e1d.mp4
+https://drive.google.com/file/d/1fB_AzD7LMeIPjINjm_hUMI-rYnIJpAmk/view?usp=sharing
 (AR feature works only in IOS)
 
 
